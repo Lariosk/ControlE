@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="estilos-css/estilos.css">
+    <link rel="stylesheet" href="estilos-css/menu.css">
+    <link rel="stylesheet" href="estilos-css/querys.css">
+</head>
+<header class="cabeza">
+
+    <nav class="nav">
+        <a class="logo" href="#">Logo</a>
+
+        <div class="bars-menu">
+            <span class="line1__bars-menu"></span>
+            <span class="line2__bars-menu"></span>
+            <span class="line3__bars-menu"></span>
+        </div>
+
+        <ul class="nav-menu">
+
+            <li class="nav-menu-item">
+                <a href="" class="nav-menu-link">Inicio</a>
+            </li>
+            <li class="nav-menu-item">
+                <a href="" class="nav-menu-link">Servicio</a>
+            </li>
+            <li class="nav-menu-item">
+                <a href="" class="nav-menu-link">Nosotros</a>
+            </li>
+            <li class="nav-menu-item">
+                <a href="" class="nav-menu-link">Contacto</a>
+            </li>
+
+        </ul>
+    </nav>
+
+</header>
+
+<body>
+
+</body>
+
+<div class="foter">
+    <footer>
+
+    </footer>
+</div>
+
+<script defer src="js/animacion.js"></script>
+
+</html>
